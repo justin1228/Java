@@ -7,5 +7,6 @@ public class page44{
         double rand = Math.floor(Math.random()*100);
 
         System.out.println(rand);
+        System.out.println(name);
     }
 }
